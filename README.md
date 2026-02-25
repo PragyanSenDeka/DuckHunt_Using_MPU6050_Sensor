@@ -1,4 +1,4 @@
-"# DuckHunt_Using_MPU6050_Sensor" 
+Version 1 hardware
 ![Version 1 hardware ](https://github.com/user-attachments/assets/6a264823-bbad-4786-91b6-782c8a0d0eda)
 
 Version 1 Game Interface
